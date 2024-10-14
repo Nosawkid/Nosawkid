@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nosawkid](https://github.com/Nosawkid)
 
-- 💭 I would love to **uild enterprise-grade applications using Java as the next big step.**
+- 💭 I would love to **build enterprise-grade applications using Java as the next big step.**
 
 - 📫 How to reach me **sidhikyaseen@gmail.com**
 
