@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning the MERN Stack, and Fundamentals of Java<br>🤝 Open to: Web development collaborations and mentorship in Java/JavaScript<br>🚀 Next goal: Mastering Java to build robust, scalable enterprise solutions<br>⚡ Fun fact I can recite spells from the Harry Potter series better than I can recite code syntax!</p>
+<p align="left">🌱 I’m currently learning the MERN Stack, and Fundamentals of Java<br>🤝 Open to: Web development collaborations<br>🚀 Next goal: Mastering Java to build robust, scalable enterprise solutions<br>⚡ Fun fact I can recite spells from the Harry Potter series better than I can recite code syntax!</p>
 
 ###
 
